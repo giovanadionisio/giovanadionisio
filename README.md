@@ -1,6 +1,6 @@
 # 🐝 Giovana 🐝
 ## Hello World! 
-<image align= right src= "https://media.giphy.com/media/3o6gH2SgFwXHHfsM5q/giphy.gif" width="150"/>
+<image align= right src= "https://media.giphy.com/media/3o6gH2SgFwXHHfsM5q/giphy.gif" width="200"/>
 
 - 💻 Estudante de Engenharia de Software 
 
